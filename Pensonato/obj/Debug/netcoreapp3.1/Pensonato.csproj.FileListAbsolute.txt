@@ -1,0 +1,14 @@
+C:\Users\m27622\source\repos\Pensonato\Pensonato\bin\Debug\netcoreapp3.1\Pensonato.exe
+C:\Users\m27622\source\repos\Pensonato\Pensonato\bin\Debug\netcoreapp3.1\Pensonato.deps.json
+C:\Users\m27622\source\repos\Pensonato\Pensonato\bin\Debug\netcoreapp3.1\Pensonato.runtimeconfig.json
+C:\Users\m27622\source\repos\Pensonato\Pensonato\bin\Debug\netcoreapp3.1\Pensonato.runtimeconfig.dev.json
+C:\Users\m27622\source\repos\Pensonato\Pensonato\bin\Debug\netcoreapp3.1\Pensonato.dll
+C:\Users\m27622\source\repos\Pensonato\Pensonato\bin\Debug\netcoreapp3.1\Pensonato.pdb
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.csproj.AssemblyReference.cache
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.AssemblyInfoInputs.cache
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.AssemblyInfo.cs
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.csproj.CoreCompileInputs.cache
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.dll
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.pdb
+C:\Users\m27622\source\repos\Pensonato\Pensonato\obj\Debug\netcoreapp3.1\Pensonato.genruntimeconfig.cache
