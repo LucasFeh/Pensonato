@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "YwekopdkS1XxHywIEoWmBzwrzlpjb/sAuHd6ZCkpMFnOu6SF+DhlrX5j9hQN55yfp0u/dhLArgy8Cu+9IDpEcw==",
+  "dgSpecHash": "zNTVKnBbNyc4nCCDu16s5YQ5FMoucAuPD537H1f3WN67/3hczeGalITtlRusCz3X2+rRmz4geLKupF7A8FxM0g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m27622\\source\\repos\\Pensonato\\Pensonato\\Pensonato.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\programação\\git e github\\Pensonato\\Pensonato\\Pensonato.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
